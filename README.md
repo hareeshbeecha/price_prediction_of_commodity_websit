@@ -47,7 +47,7 @@ python app.py
 ## **📲 Screenshots**
 | Home | File | Result |
 |------|---------|--------|
-| ![Home](https://github.com/hareeshbeecha/price_prediction_of_commodity_websit/blob/main/screenshots/home%20page.jpeg) | ![File](https://github.com/hareeshbeecha/price_prediction_of_commodity_websit/blob/main/screenshots/uploading%20file.jpeg) | ![Result](https://github.com/hareeshbeecha/price_prediction_of_commodity_websit/blob/main/screenshots/result.jpeg) |
+| ![Home](https://github.com/hareeshbeecha/price_prediction_of_commodity_websit/blob/main/screenshorts/home%20page.jpeg) | ![File](https://github.com/hareeshbeecha/price_prediction_of_commodity_websit/blob/main/screenshorts/uploading%20file.jpeg) | ![Result](https://github.com/hareeshbeecha/price_prediction_of_commodity_websit/blob/main/screenshorts/result.jpeg) |
 
 
 ---
