@@ -1,6 +1,7 @@
 # 🌾 Price Prediction of Commodity Web Application
 
 🚀 A machine learning-based web application for predicting commodity prices, providing insightful visualizations to help users make informed decisions.
+---
 
 ## 📈 Features
 
@@ -8,6 +9,8 @@
 - ✅ **Interactive Web Interface** for uploading data and viewing results
 - ✅ **Visualizations for Price Trends**
 - ✅ **User-Friendly Design** with CSV Upload Support
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,24 +27,29 @@
 
 
 # 1️⃣ Clone the Repository
+```sh
 git clone https://github.com/hareeshbeecha/price_prediction_of_commodity_websit.git
 cd price_prediction_of_commodity_websit
+```
 
 # 2️⃣ Create and Activate a Virtual Environment
+```sh
 python -m venv myenv
-
+```
 # On Windows:
+```sh
 myenv\Scripts\activate
-
+```
 # On macOS/Linux:
+```sh
 source myenv/bin/activate
-
+```
 # 3️⃣ Install Dependencies
-pip install -r requirements.txt
 
 # 4️⃣ Run the Application
+```sh
 python app.py
-
+```
 ---
 
 ## **📲 Screenshots**
@@ -57,6 +65,8 @@ python app.py
 2. Upload a CSV file containing commodity price data.
 3. View predicted prices and detailed visualizations.
 
+---
+
 ## 📊 Dataset Details
 
 - **Min.Price**: Minimum price of the commodity.
@@ -64,11 +74,12 @@ python app.py
 - **Model.Price**: Average price.
 - **Retail.Price**: Price at the retail level.
 - **ArrivalQty**: Quantity arriving in the market.
-
+---
 ## 👥 Contributors
 
 - Hareesh Beecha
 
+---
 ## 📩 Contact
 
 - 👤 Beecha Venkata Naga Hareesh
